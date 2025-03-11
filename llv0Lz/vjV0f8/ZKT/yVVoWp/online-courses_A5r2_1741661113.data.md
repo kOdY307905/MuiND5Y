@@ -12,7 +12,6 @@ which python
 
 whereis python
 ```
-三个指令的功能有一些不同，但是都很有用
 
 ### 3.基本 Python 与 Pip 的命令行使用
 ```
