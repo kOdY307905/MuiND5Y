@@ -25,7 +25,6 @@ python2 -m pip install package_name
 ThePythonYouWant -m pip install package_name
 ```
 -m 代表 module。python -m module_name 意为使用 python 运行该模组。
-pip 只是一个 python 模组，只是恰好有命令行快捷方式罢了。
 
 ### 4.什么是环境变量 Environmental Variable
 所有运行着的程序都在某种“系统环境”中运行。Linux 的很多程序都是从 Shell 启动的。那么 Shell 就自带了一些环境变量。环境变量和编程语言里面的变量差不多，都是由 “名字” + “值” 组成的。比如，一个叫做 LOG_LEVEL 的变量可能等于 2；一个叫做 USER_NAME 的变量可能等于 “你的名字”。
