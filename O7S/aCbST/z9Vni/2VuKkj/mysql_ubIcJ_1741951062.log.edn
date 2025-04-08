@@ -183,7 +183,6 @@
   metabase.query-processor.error-type/deferror                                         [[:block 1]]
   metabase.query-processor.middleware.cache-backend.interface/with-cached-results      [[:block 4]]
   metabase.query-processor.middleware.process-userland-query-test/with-query-execution [[:block 1]]
-  metabase.query-processor.store/cached                                                [[:block 1]]
   metabase.query-processor.store/with-metadata-provider                                [[:inner 0]]
   metabase.query-processor.streaming/streaming-response                                [[:block 1]]
   metabase.query-processor.test-util/format-rows-by                                    [[:default]]
