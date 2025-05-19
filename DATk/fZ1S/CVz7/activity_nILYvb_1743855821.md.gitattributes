@@ -3,4 +3,3 @@
 *.rc diff
 *.ini diff
 *.xml diff
-*.lng diff
