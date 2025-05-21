@@ -57,7 +57,6 @@
 ### Version 1.5.9 ([Maven Central](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.netflix.hystrix%22%20AND%20v%3A%221.5.9%22), [Bintray](https://bintray.com/netflixoss/maven/Hystrix/1.5.9/)) ###
 
 * [Pull 1423](https://github.com/Netflix/Hystrix/pull/1423) Write correct value to error log when maximumSize < coreSize.  Thanks @diver-in-sky!
-* [Pull 1412](https://github.com/Netflix/Hystrix/pull/1412) Javanica: raiseHystrixExceptions support for Observables.  Thanks @michaelcowan !
 * [Pull 1441](https://github.com/Netflix/Hystrix/pull/1441) Use Gretty Gradle plugin for hystrix-examples-webapp 
 * [Pull 1442](https://github.com/Netflix/Hystrix/pull/1442) Fix handling of client-connect/disconnect never getting released if it occurs before metrics start getting produced by hystrix-metrics-event-stream.  Thanks for review, @mattnelson!
 * [Pull 1444](https://github.com/Netflix/Hystrix/pull/1444) More efficient server thread release in hystrix-metrics-event-stream.  Thanks @mattnelson for the suggestion!
