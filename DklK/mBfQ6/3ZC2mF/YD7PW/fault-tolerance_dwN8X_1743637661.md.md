@@ -122,7 +122,6 @@
 * [Pull 1300](https://github.com/Netflix/Hystrix/pull/1300) Update all completion state for scalar command in the onNext handling
 * [Pull 1294](https://github.com/Netflix/Hystrix/pull/1294) Make sure that threadpools shutdown when asked to.  Thanks @thesmith!
 * [Pull 1297](https://github.com/Netflix/Hystrix/pull/1297) Fix typo in README.  Thanks @ManishMaheshwari!
-* [Pull 1295](https://github.com/Netflix/Hystrix/pull/1295) Fix typo in README.  Thanks @C-Otto!
 * [Pull 1273](https://github.com/Netflix/Hystrix/pull/1273) Corrected ignoreExceptions for Observable-returning methods.  Thanks @jbojar!
 * [Pull 1197](https://github.com/Netflix/Hystrix/pull/1197) Eureka integration for Hystrix dashboard.  Thanks @diegopacheco!
 * [Pull 1278](https://github.com/Netflix/Hystrix/pull/1278) Prevent duplicate arguments from getting into a single collapser RequestBatch
