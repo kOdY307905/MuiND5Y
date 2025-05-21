@@ -436,7 +436,6 @@ This version should be the exact same as 1.4.20, but suffered problems during th
 * [Pull 778](https://github.com/Netflix/Hystrix/pull/778) Run jmh using more forks and fewer iterations/fork
 * [Pull 776](https://github.com/Netflix/Hystrix/pull/776) Add Bad requests to Hystrix dashboard
 * [Pull 775](https://github.com/Netflix/Hystrix/pull/775) Add counters for number of commands, thread pools, groups
-* [Pull 774](https://github.com/Netflix/Hystrix/pull/774) Add global concurrent Hystrix threads counter
 
 ### Version 1.4.6 ([Maven Central](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.netflix.hystrix%22%20AND%20v%3A%221.4.6%22), [Bintray](https://bintray.com/netflixoss/maven/Hystrix/1.4.6/)) ###
 
