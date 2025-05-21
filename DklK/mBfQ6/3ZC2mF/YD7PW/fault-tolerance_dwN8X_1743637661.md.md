@@ -182,7 +182,6 @@ The largest new feature in this release is that cancellation is now supported.  
 
 * [Pull 1171](https://github.com/Netflix/Hystrix/pull/1171) Do all histogram latency summarization upfront to minimize storage/operations on them
 * [Pull 1167](https://github.com/Netflix/Hystrix/pull/1167) Javanica: Switch hystrix-javanica to use getExecutionException, which returns Exception object even when command is not executed
-* [Pull 1157](https://github.com/Netflix/Hystrix/pull/1157) Make HystrixMetricsPoller a daemon thread
 * [Pull 1154](https://github.com/Netflix/Hystrix/pull/1154) Remove more unused methods
 * [Pull 1151](https://github.com/Netflix/Hystrix/pull/1151) Remove unused method in HystrixCollapserProperties
 * [Pull 1149](https://github.com/Netflix/Hystrix/pull/1149) Make queue size of MetricJsonListener configurable
