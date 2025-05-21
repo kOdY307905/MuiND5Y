@@ -337,7 +337,6 @@ Artifacts: [Maven Central](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com
 * [Pull 945](https://github.com/Netflix/Hystrix/pull/945) Javanica: Compile-time weaving support
 * [Pull 952](https://github.com/Netflix/Hystrix/pull/952) Tolerate lack of RequestContext better for custom concurrency strategies
 * [Pull 947](https://github.com/Netflix/Hystrix/pull/947) Upgrade RxNetty to 0.4.12 for RxNetty metrics stream
-* [Pull 946](https://github.com/Netflix/Hystrix/pull/946) More extension-friendly Yammer metrics publisher
 * [Pull 944](https://github.com/Netflix/Hystrix/pull/944) Fix generated POM to include dependencies in 'compile' scope
 * [Pull 942](https://github.com/Netflix/Hystrix/pull/942) Fix metrics stream fallbackEmit metric
 * [Pull 941](https://github.com/Netflix/Hystrix/pull/941) Add FALLBACK_MISSING event type and metric
