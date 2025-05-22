@@ -663,7 +663,6 @@ _NOTE: This code is believed to be production worthy but is still a "Release Can
 
 ### Version 1.4.0 Release Candidate 4 ([Maven Central](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.netflix.hystrix%22%20AND%20v%3A%221.4.0-RC4%22)) ###
 
-_NOTE: This code is NOT considered production worthy yet, hence the "Release Candidate" status._
 
 This fixes some bugs and changes the `HystrixObservableCollapser` signature to support `Observable` batches.
 
