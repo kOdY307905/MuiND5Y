@@ -1023,7 +1023,6 @@ See the module README for more information: https://github.com/Netflix/Hystrix/t
 * [Pull 30](https://github.com/Netflix/Hystrix/pull/30) Simplified access to HystrixCommandMetrics
 * Javadoc and README changes
 
-### Version 1.0.2 ###
 * Javadoc changes
 
 ### Version 1.0.0 ###
