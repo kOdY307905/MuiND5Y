@@ -412,7 +412,6 @@ This version should be the exact same as 1.4.20, but suffered problems during th
 ### Version 1.4.10 ([Maven Central](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.netflix.hystrix%22%20AND%20v%3A%221.4.10%22), [Bintray](https://bintray.com/netflixoss/maven/Hystrix/1.4.10/)) ###
 
 * [Pull 804](https://github.com/Netflix/Hystrix/pull/804) Fix memory leak by switching back to AtomicIntegerArray for HystrixRollingPercentile
-
 ### Version 1.4.9 ([Maven Central](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.netflix.hystrix%22%20AND%20v%3A%221.4.9%22), [Bintray](https://bintray.com/netflixoss/maven/Hystrix/1.4.9/)) ###
 * [Pull 799](https://github.com/Netflix/Hystrix/pull/799) Fix thread-safety of writes to HystrixRollingPercentile
 
