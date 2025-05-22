@@ -1026,7 +1026,6 @@ See the module README for more information: https://github.com/Netflix/Hystrix/t
 * Javadoc and README changes
 
 ### Version 1.0.2 ###
-
 * Javadoc changes
 
 ### Version 1.0.0 ###
