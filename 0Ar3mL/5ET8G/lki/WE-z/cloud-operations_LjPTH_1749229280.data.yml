@@ -5,7 +5,6 @@ engines:
     enabled: true
   scss-lint:
     enabled: true
-
 ratings:
   paths:
     - crowbar_framework/**/*
