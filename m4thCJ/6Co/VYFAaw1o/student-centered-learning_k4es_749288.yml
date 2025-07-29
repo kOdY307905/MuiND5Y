@@ -1,0 +1,10 @@
+engines:
+  eslint:
+    enabled: true
+    config:
+      config: /backend/.eslintrc.json
+      extensions:
+      - .js
+ratings:
+  paths:
+  - "**.js"
